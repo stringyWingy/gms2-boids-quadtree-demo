@@ -1,15 +1,17 @@
-global.SIGHT_DISTANCE = 75;
-global.MAX_SPEED = 6;
+global.SIGHT_DISTANCE = 30;
+global.MAX_SPEED = 5;
 global.MAX_FORCE = 7;
 
 global.ALIGN_FORCE = 1;
-global.COHESION_FORCE = 1.5;
-global.SEPARATION_FORCE = 2;
+global.COHESION_FORCE = 2;
+global.SEPARATION_FORCE = 1.1;
 
-global.QUADTREE_CAP = 60;
+global.QUADTREE_CAP = 32;
 global.QUADTREE = new Quadtree(0,0,room_width,room_height,global.QUADTREE_CAP);
 
-for (i = 0; i < 200; i++){
+var _starting_population = 200;
+
+for (i = 0; i < _starting_population; i++){
 	var nx = random(room_width);
 	var ny = random(room_height);
 	

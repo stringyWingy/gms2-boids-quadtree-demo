@@ -38,7 +38,6 @@
     {"id":{"name":"obj_birb","path":"objects/obj_birb/obj_birb.yy",},},
     {"id":{"name":"spr_arrow","path":"sprites/spr_arrow/spr_arrow.yy",},},
     {"id":{"name":"fnt_info","path":"fonts/fnt_info/fnt_info.yy",},},
-    {"id":{"name":"scr_vector","path":"scripts/scr_vector/scr_vector.yy",},},
     {"id":{"name":"scr_quadtree","path":"scripts/scr_quadtree/scr_quadtree.yy",},},
     {"id":{"name":"obj_vector","path":"objects/obj_vector/obj_vector.yy",},},
     {"id":{"name":"scr_array_methods","path":"scripts/scr_array_methods/scr_array_methods.yy",},},
