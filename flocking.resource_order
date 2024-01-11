@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings": [
+    {"name":"vector","order":1,"path":"folders/vector.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"obj_quadTreeManager","order":3,"path":"objects/obj_quadTreeManager/obj_quadTreeManager.yy",},
+    {"name":"scr_vector","order":2,"path":"scripts/scr_vector/scr_vector.yy",},
+    {"name":"scr_quadtree","order":3,"path":"scripts/scr_quadtree/scr_quadtree.yy",},
+    {"name":"obj_vector","order":1,"path":"objects/obj_vector/obj_vector.yy",},
+    {"name":"scr_array_methods","order":1,"path":"scripts/scr_array_methods/scr_array_methods.yy",},
+    {"name":"obj_quadtree","order":2,"path":"objects/obj_quadtree/obj_quadtree.yy",},
+    {"name":"scr_vector3d","order":1,"path":"scripts/scr_vector3d/scr_vector3d.yy",},
+  ],
+}
